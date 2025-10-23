@@ -7,3 +7,4 @@ public class HesapOzeti {
         System.out.println("Toplam Tutar = 69 TL");
     }
 }
+
