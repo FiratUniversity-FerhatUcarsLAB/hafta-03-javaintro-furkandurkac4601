@@ -1,7 +1,7 @@
 public class IsimKarti {
     public static void main(String[] args) {
         String ad = "Furkan ";
-        String soyad = Durkaç";
+        String soyad = "Durkaç";
         String no = "250541045";
         String bolum = "Yazilim Mühendisliği";
         System.out.println("************************************************");
@@ -14,3 +14,4 @@ public class IsimKarti {
     
     }
 }
+
